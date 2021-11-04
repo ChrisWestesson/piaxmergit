@@ -19,8 +19,13 @@ struct ContentView: View {
             .cornerRadius(/*@START_MENU_TOKEN@*/22.0/*@END_MENU_TOKEN@*/)
             
             Text("test").padding()
+            
+            Spacer()
+            HStack {
+                Text("Greetings").foregroundColor(.white).background(.red).padding(.all)
+            }
+            
         }
-        
         
     }
 }

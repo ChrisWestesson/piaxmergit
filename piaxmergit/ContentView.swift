@@ -15,6 +15,7 @@ struct ContentView: View {
             .foregroundColor(Color.white)
             .padding()
             .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.blue/*@END_MENU_TOKEN@*/)
+            .cornerRadius(/*@START_MENU_TOKEN@*/22.0/*@END_MENU_TOKEN@*/)
     }
 }
 

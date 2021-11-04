@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-
+//vi ändrade i main
 
 struct ContentView: View {
     var body: some View {

@@ -22,7 +22,7 @@ struct ContentView: View {
             
             Spacer()
             HStack {
-                Text("Greetings").foregroundColor(.white).background(.red).padding(.all)
+                Text("Hallå grabbar").foregroundColor(.white).background(.red).padding(.all)
             }
             
         }
